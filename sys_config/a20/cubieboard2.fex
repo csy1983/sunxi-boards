@@ -973,3 +973,6 @@ LV6_volt = 1100
 LV7_freq = 144000000
 LV7_volt = 1050
 
+[usb_wifi_para]
+usb_wifi_used = 1
+usb_wifi_usbc_num = 2
